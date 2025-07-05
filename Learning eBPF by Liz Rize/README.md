@@ -1,0 +1,2 @@
+I'll be creating summaries about this book here for people to learn faster about this technology.
+**Note:** These summaries are based on Learning eBPF by Liz Rice (published by O’Reilly). All rights remain with the author and publisher. This content is intended solely for educational and discussion purposes, and I do not intend to infringe on any rights or cause harm.
